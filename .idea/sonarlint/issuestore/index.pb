@@ -1,0 +1,27 @@
+
+r
+Bapp/src/androidTest/java/pwr/swim/snake/ExampleInstrumentedTest.kt,1\a\1aaf36ea2d96226b929450f6a39ca8ffb324383f
+c
+3app/src/main/java/pwr/swim/snake/Enums/Direction.kt,f\9\f95029b8b4ea094577f67a9fcf74ef365ab6600e
+_
+/app/src/main/java/pwr/swim/snake/engine/Tile.kt,e\e\ee0804870abee989545e0045f3e2e0336f7ddcc9
+c
+3app/src/main/java/pwr/swim/snake/Enums/GameState.kt,f\5\f580ac5634d8efc9277540cd08b0048dc1f7da94
+`
+0app/src/main/java/pwr/swim/snake/engine/Snake.kt,6\f\6f3879d524b00ead326adc4da5620f267db407c1
+e
+5app/src/main/java/pwr/swim/snake/engine/GameEngine.kt,0\b\0b2f95ef085d6eca4e036673051b17fec0813b93
+b
+2app/src/main/java/pwr/swim/snake/Enums/TileType.kt,9\1\91a8e532336e37374f55aea3e8a9c8659d888168
+f
+6app/src/main/java/pwr/swim/snake/views/MainActivity.kt,8\4\8493da84abce2c09e8928a745c381deb2681e861
+k
+;app/src/main/java/pwr/swim/snake/engine/SnakeDirectioner.kt,2\7\27758f408802f85a6d97a4cba23c38d909f81555
+c
+3app/src/main/java/pwr/swim/snake/views/SnakeView.kt,4\8\48455125b8a52d5385c11089e02f6d01b44888d5
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+c
+3app/src/main/java/pwr/swim/snake/Enums/LightEnum.kt,0\3\0396986d8d7a4cdcd833533110364aecd0f46655
+h
+8app/src/main/java/pwr/swim/snake/engine/LightListener.kt,e\9\e908e0c17dcbd4d85b248b16ebede21c24b96cd1
